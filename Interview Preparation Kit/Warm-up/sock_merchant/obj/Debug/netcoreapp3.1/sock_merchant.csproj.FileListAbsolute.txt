@@ -1,0 +1,13 @@
+D:\Desenvolvimento\challenges\hackerrank\sock_merchant\bin\Debug\netcoreapp3.1\sock_merchant.exe
+D:\Desenvolvimento\challenges\hackerrank\sock_merchant\bin\Debug\netcoreapp3.1\sock_merchant.deps.json
+D:\Desenvolvimento\challenges\hackerrank\sock_merchant\bin\Debug\netcoreapp3.1\sock_merchant.runtimeconfig.json
+D:\Desenvolvimento\challenges\hackerrank\sock_merchant\bin\Debug\netcoreapp3.1\sock_merchant.runtimeconfig.dev.json
+D:\Desenvolvimento\challenges\hackerrank\sock_merchant\bin\Debug\netcoreapp3.1\sock_merchant.dll
+D:\Desenvolvimento\challenges\hackerrank\sock_merchant\bin\Debug\netcoreapp3.1\sock_merchant.pdb
+D:\Desenvolvimento\challenges\hackerrank\sock_merchant\obj\Debug\netcoreapp3.1\sock_merchant.csprojAssemblyReference.cache
+D:\Desenvolvimento\challenges\hackerrank\sock_merchant\obj\Debug\netcoreapp3.1\sock_merchant.AssemblyInfoInputs.cache
+D:\Desenvolvimento\challenges\hackerrank\sock_merchant\obj\Debug\netcoreapp3.1\sock_merchant.AssemblyInfo.cs
+D:\Desenvolvimento\challenges\hackerrank\sock_merchant\obj\Debug\netcoreapp3.1\sock_merchant.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\challenges\hackerrank\sock_merchant\obj\Debug\netcoreapp3.1\sock_merchant.dll
+D:\Desenvolvimento\challenges\hackerrank\sock_merchant\obj\Debug\netcoreapp3.1\sock_merchant.pdb
+D:\Desenvolvimento\challenges\hackerrank\sock_merchant\obj\Debug\netcoreapp3.1\sock_merchant.genruntimeconfig.cache

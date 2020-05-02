@@ -1,0 +1,13 @@
+D:\Desenvolvimento\challenges\hackerrank\repeted_string\bin\Debug\netcoreapp3.1\repeted_string.exe
+D:\Desenvolvimento\challenges\hackerrank\repeted_string\bin\Debug\netcoreapp3.1\repeted_string.deps.json
+D:\Desenvolvimento\challenges\hackerrank\repeted_string\bin\Debug\netcoreapp3.1\repeted_string.runtimeconfig.json
+D:\Desenvolvimento\challenges\hackerrank\repeted_string\bin\Debug\netcoreapp3.1\repeted_string.runtimeconfig.dev.json
+D:\Desenvolvimento\challenges\hackerrank\repeted_string\bin\Debug\netcoreapp3.1\repeted_string.dll
+D:\Desenvolvimento\challenges\hackerrank\repeted_string\bin\Debug\netcoreapp3.1\repeted_string.pdb
+D:\Desenvolvimento\challenges\hackerrank\repeted_string\obj\Debug\netcoreapp3.1\repeted_string.csprojAssemblyReference.cache
+D:\Desenvolvimento\challenges\hackerrank\repeted_string\obj\Debug\netcoreapp3.1\repeted_string.AssemblyInfoInputs.cache
+D:\Desenvolvimento\challenges\hackerrank\repeted_string\obj\Debug\netcoreapp3.1\repeted_string.AssemblyInfo.cs
+D:\Desenvolvimento\challenges\hackerrank\repeted_string\obj\Debug\netcoreapp3.1\repeted_string.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\challenges\hackerrank\repeted_string\obj\Debug\netcoreapp3.1\repeted_string.dll
+D:\Desenvolvimento\challenges\hackerrank\repeted_string\obj\Debug\netcoreapp3.1\repeted_string.pdb
+D:\Desenvolvimento\challenges\hackerrank\repeted_string\obj\Debug\netcoreapp3.1\repeted_string.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Desenvolvimento\challenges\hackerrank\Array\NewYearChaos\bin\Debug\netcoreapp3.1\NewYearChaos.exe
+D:\Desenvolvimento\challenges\hackerrank\Array\NewYearChaos\bin\Debug\netcoreapp3.1\NewYearChaos.deps.json
+D:\Desenvolvimento\challenges\hackerrank\Array\NewYearChaos\bin\Debug\netcoreapp3.1\NewYearChaos.runtimeconfig.json
+D:\Desenvolvimento\challenges\hackerrank\Array\NewYearChaos\bin\Debug\netcoreapp3.1\NewYearChaos.runtimeconfig.dev.json
+D:\Desenvolvimento\challenges\hackerrank\Array\NewYearChaos\bin\Debug\netcoreapp3.1\NewYearChaos.dll
+D:\Desenvolvimento\challenges\hackerrank\Array\NewYearChaos\bin\Debug\netcoreapp3.1\NewYearChaos.pdb
+D:\Desenvolvimento\challenges\hackerrank\Array\NewYearChaos\obj\Debug\netcoreapp3.1\NewYearChaos.csprojAssemblyReference.cache
+D:\Desenvolvimento\challenges\hackerrank\Array\NewYearChaos\obj\Debug\netcoreapp3.1\NewYearChaos.AssemblyInfoInputs.cache
+D:\Desenvolvimento\challenges\hackerrank\Array\NewYearChaos\obj\Debug\netcoreapp3.1\NewYearChaos.AssemblyInfo.cs
+D:\Desenvolvimento\challenges\hackerrank\Array\NewYearChaos\obj\Debug\netcoreapp3.1\NewYearChaos.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\challenges\hackerrank\Array\NewYearChaos\obj\Debug\netcoreapp3.1\NewYearChaos.dll
+D:\Desenvolvimento\challenges\hackerrank\Array\NewYearChaos\obj\Debug\netcoreapp3.1\NewYearChaos.pdb
+D:\Desenvolvimento\challenges\hackerrank\Array\NewYearChaos\obj\Debug\netcoreapp3.1\NewYearChaos.genruntimeconfig.cache

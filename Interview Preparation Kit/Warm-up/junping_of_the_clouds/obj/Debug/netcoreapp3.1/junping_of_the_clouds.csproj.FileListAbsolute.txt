@@ -1,0 +1,13 @@
+D:\Desenvolvimento\challenges\hackerrank\junping_of_the_clouds\bin\Debug\netcoreapp3.1\junping_of_the_clouds.exe
+D:\Desenvolvimento\challenges\hackerrank\junping_of_the_clouds\bin\Debug\netcoreapp3.1\junping_of_the_clouds.deps.json
+D:\Desenvolvimento\challenges\hackerrank\junping_of_the_clouds\bin\Debug\netcoreapp3.1\junping_of_the_clouds.runtimeconfig.json
+D:\Desenvolvimento\challenges\hackerrank\junping_of_the_clouds\bin\Debug\netcoreapp3.1\junping_of_the_clouds.runtimeconfig.dev.json
+D:\Desenvolvimento\challenges\hackerrank\junping_of_the_clouds\bin\Debug\netcoreapp3.1\junping_of_the_clouds.dll
+D:\Desenvolvimento\challenges\hackerrank\junping_of_the_clouds\bin\Debug\netcoreapp3.1\junping_of_the_clouds.pdb
+D:\Desenvolvimento\challenges\hackerrank\junping_of_the_clouds\obj\Debug\netcoreapp3.1\junping_of_the_clouds.csprojAssemblyReference.cache
+D:\Desenvolvimento\challenges\hackerrank\junping_of_the_clouds\obj\Debug\netcoreapp3.1\junping_of_the_clouds.AssemblyInfoInputs.cache
+D:\Desenvolvimento\challenges\hackerrank\junping_of_the_clouds\obj\Debug\netcoreapp3.1\junping_of_the_clouds.AssemblyInfo.cs
+D:\Desenvolvimento\challenges\hackerrank\junping_of_the_clouds\obj\Debug\netcoreapp3.1\junping_of_the_clouds.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\challenges\hackerrank\junping_of_the_clouds\obj\Debug\netcoreapp3.1\junping_of_the_clouds.dll
+D:\Desenvolvimento\challenges\hackerrank\junping_of_the_clouds\obj\Debug\netcoreapp3.1\junping_of_the_clouds.pdb
+D:\Desenvolvimento\challenges\hackerrank\junping_of_the_clouds\obj\Debug\netcoreapp3.1\junping_of_the_clouds.genruntimeconfig.cache

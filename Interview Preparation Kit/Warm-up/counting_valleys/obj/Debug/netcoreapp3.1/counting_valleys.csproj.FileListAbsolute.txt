@@ -1,0 +1,13 @@
+D:\Desenvolvimento\challenges\hackerrank\counting_valleys\bin\Debug\netcoreapp3.1\counting_valleys.exe
+D:\Desenvolvimento\challenges\hackerrank\counting_valleys\bin\Debug\netcoreapp3.1\counting_valleys.deps.json
+D:\Desenvolvimento\challenges\hackerrank\counting_valleys\bin\Debug\netcoreapp3.1\counting_valleys.runtimeconfig.json
+D:\Desenvolvimento\challenges\hackerrank\counting_valleys\bin\Debug\netcoreapp3.1\counting_valleys.runtimeconfig.dev.json
+D:\Desenvolvimento\challenges\hackerrank\counting_valleys\bin\Debug\netcoreapp3.1\counting_valleys.dll
+D:\Desenvolvimento\challenges\hackerrank\counting_valleys\bin\Debug\netcoreapp3.1\counting_valleys.pdb
+D:\Desenvolvimento\challenges\hackerrank\counting_valleys\obj\Debug\netcoreapp3.1\counting_valleys.csprojAssemblyReference.cache
+D:\Desenvolvimento\challenges\hackerrank\counting_valleys\obj\Debug\netcoreapp3.1\counting_valleys.AssemblyInfoInputs.cache
+D:\Desenvolvimento\challenges\hackerrank\counting_valleys\obj\Debug\netcoreapp3.1\counting_valleys.AssemblyInfo.cs
+D:\Desenvolvimento\challenges\hackerrank\counting_valleys\obj\Debug\netcoreapp3.1\counting_valleys.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\challenges\hackerrank\counting_valleys\obj\Debug\netcoreapp3.1\counting_valleys.dll
+D:\Desenvolvimento\challenges\hackerrank\counting_valleys\obj\Debug\netcoreapp3.1\counting_valleys.pdb
+D:\Desenvolvimento\challenges\hackerrank\counting_valleys\obj\Debug\netcoreapp3.1\counting_valleys.genruntimeconfig.cache

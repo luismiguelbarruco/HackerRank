@@ -1,0 +1,13 @@
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\left_rotation\bin\Debug\netcoreapp3.1\left_rotation.exe
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\left_rotation\bin\Debug\netcoreapp3.1\left_rotation.deps.json
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\left_rotation\bin\Debug\netcoreapp3.1\left_rotation.runtimeconfig.json
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\left_rotation\bin\Debug\netcoreapp3.1\left_rotation.runtimeconfig.dev.json
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\left_rotation\bin\Debug\netcoreapp3.1\left_rotation.dll
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\left_rotation\bin\Debug\netcoreapp3.1\left_rotation.pdb
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\left_rotation\obj\Debug\netcoreapp3.1\left_rotation.csprojAssemblyReference.cache
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\left_rotation\obj\Debug\netcoreapp3.1\left_rotation.AssemblyInfoInputs.cache
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\left_rotation\obj\Debug\netcoreapp3.1\left_rotation.AssemblyInfo.cs
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\left_rotation\obj\Debug\netcoreapp3.1\left_rotation.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\left_rotation\obj\Debug\netcoreapp3.1\left_rotation.dll
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\left_rotation\obj\Debug\netcoreapp3.1\left_rotation.pdb
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\left_rotation\obj\Debug\netcoreapp3.1\left_rotation.genruntimeconfig.cache

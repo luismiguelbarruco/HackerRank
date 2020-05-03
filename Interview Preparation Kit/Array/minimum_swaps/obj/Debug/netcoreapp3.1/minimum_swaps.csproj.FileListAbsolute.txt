@@ -1,0 +1,13 @@
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\minimum_swaps\obj\Debug\netcoreapp3.1\minimum_swaps.csprojAssemblyReference.cache
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\minimum_swaps\obj\Debug\netcoreapp3.1\minimum_swaps.AssemblyInfoInputs.cache
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\minimum_swaps\obj\Debug\netcoreapp3.1\minimum_swaps.AssemblyInfo.cs
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\minimum_swaps\obj\Debug\netcoreapp3.1\minimum_swaps.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\minimum_swaps\bin\Debug\netcoreapp3.1\minimum_swaps.exe
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\minimum_swaps\bin\Debug\netcoreapp3.1\minimum_swaps.deps.json
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\minimum_swaps\bin\Debug\netcoreapp3.1\minimum_swaps.runtimeconfig.json
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\minimum_swaps\bin\Debug\netcoreapp3.1\minimum_swaps.runtimeconfig.dev.json
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\minimum_swaps\bin\Debug\netcoreapp3.1\minimum_swaps.dll
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\minimum_swaps\bin\Debug\netcoreapp3.1\minimum_swaps.pdb
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\minimum_swaps\obj\Debug\netcoreapp3.1\minimum_swaps.dll
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\minimum_swaps\obj\Debug\netcoreapp3.1\minimum_swaps.pdb
+D:\Desenvolvimento\HackerRank\Interview Preparation Kit\Array\minimum_swaps\obj\Debug\netcoreapp3.1\minimum_swaps.genruntimeconfig.cache
